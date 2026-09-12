@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+   buildings       0.00      0.00      0.00       437
+      forest       0.73      0.64      0.68       474
+     glacier       0.47      0.66      0.55       553
+    mountain       0.30      0.55      0.38       525
+         sea       0.00      0.00      0.00       510
+      street       0.35      0.58      0.44       501
+
+    accuracy                           0.42      3000
+   macro avg       0.31      0.41      0.34      3000
+weighted avg       0.31      0.42      0.35      3000
